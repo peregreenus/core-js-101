@@ -240,8 +240,7 @@ function encodeToRot13(/* str */) {
  *   isString('test') => true
  *   isString(new String('test')) => true
  */
-function isString(value) {
-  console.log(value);
+function isString(/* value */) {
 }
 
 
